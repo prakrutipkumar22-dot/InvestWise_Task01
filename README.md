@@ -2,12 +2,6 @@
 
 **Investment Education Platform for Gen Z (Ages 21-30)**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Status: In Development](https://img.shields.io/badge/status-in%20development-orange.svg)]()
-
----
-
 ## 🎯 Project Overview
 
 InvestWise is an educational investment platform designed to help young adults (ages 21-30) learn about investing, understand risk management, and build confidence in financial decision-making—all without risking real money.
